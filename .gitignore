@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
+
+# Modèles et fichiers lourds générés par le notebook
+ner_model_v2/
+easyocr_models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Données et fichiers temporaires
+data/
+tmp_upload.png
+guide_medical.pdf
