@@ -53,6 +53,3 @@ Sur Kaggle, utilise *Add-ons → Secrets*.
 Ouvre `medecin-ia.ipynb` (Kaggle, Colab ou Jupyter local) et exécute les cellules dans l'ordre.
 Les chemins `/kaggle/working` et `/kaggle/input` sont à adapter si tu l'exécutes en local.
 
-## Équipe
-
-Projet réalisé à l'ENSIAS (Rabat), en groupe, sous la supervision de Prof. Hanaa Afia.
