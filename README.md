@@ -1,6 +1,6 @@
 # 🧬 Médecin IA
 
-Pipeline NLP modulaire pour l'interprétation automatique de résultats d'analyses biologiques en français.
+Pipeline NLP modulaire pour l'interprétation automatique de résultats d'analyses biologiques.
 
 ## Fonctionnalités
 
