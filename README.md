@@ -29,7 +29,7 @@ Le dataset n'est pas inclus dans ce repo : télécharge-le depuis Kaggle et adap
 ## Installation
 
 ```bash
-git clone https://github.com/TON_USERNAME/medecin-ia.git
+git clone https://github.com/Ou-rkia/medecin-ia.git
 cd medecin-ia
 pip install -r requirements.txt
 ```
